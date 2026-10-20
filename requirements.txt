@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+sgp4>=2.20
+vispy>=0.14
+PyQt6
+pillow
